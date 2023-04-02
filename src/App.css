@@ -1,0 +1,259 @@
+.instagram{
+  position:absolute;
+  top:60px;
+  left:565px;
+  border: 1px solid #e6e3e3;
+  width:347.5px;
+  height:390px;
+  border-radius:1px;
+  text-align: center;
+}
+.heading{
+  position:relative;
+  font-family: 'Updock', cursive;
+  font-size:40px;  
+  font-style:bold; 
+}
+.mobile{
+  position:absolute;
+  left:40px;
+  width:262.5px;
+  height:32.5px;
+  top:135px;
+  border-radius:3px;
+  border:1px solid #dad7d7;
+  background-color:#f9f9f9;
+}
+.mobile::placeholder{
+  position:absolute;
+  font-size:12px;
+  left:10px;
+  top:10px;
+  color:#908e8e;
+}
+.password{
+  position:absolute;
+  left:40px;
+  width:262.5px;
+  height:32.5px;
+  top:180px;
+  border-radius:3px;
+  border:1px solid #dad7d7;
+  background-color:#f9f9f9;
+}
+.password::placeholder{
+  position:absolute;
+  font-size:12px;
+  left:10px;
+  top:10px;
+  color:#908e8e;
+}
+
+.facebook{
+  position:absolute;
+   left:40px;
+  width:270px;
+  height:32px;
+  top:230px;
+  border-radius:8px;
+  border:#e6e3e3;
+  background-color: rgb(52, 153, 240);
+}
+.label2{
+  position:absolute;
+  top:235px;
+  left:155px;
+  font-size:14px;
+  font-weight: 500;
+  color:#ffffff;
+}
+.or{
+  position:relative;
+  top:170px;
+  font-size:13px;
+  font-weight:500;
+  color:#908e8e;
+}
+.break1{
+  position:absolute;
+  left:40px;
+  width:105px;
+  top:280px;
+  background-color:#908e8e;
+}
+.break2{
+  position:absolute;
+  left:200px;
+  width:105px;
+  top:280px; 
+  color:#908e8e;
+}
+.login1{
+  position:relative;
+  top:180px;
+  font-size:14px;
+  font-weight: 625;
+  color:rgb(51, 82, 148);
+}
+.forgot{
+  position:relative;
+  top:190px;
+  font-size:11.5px;
+  color:rgb(51, 82, 148);
+}
+
+
+
+.signup{
+  position:absolute;
+   left:40px;
+  width:270px;
+  height:32.5px;
+  top:550px;
+  border-radius:8px;
+  border:#e6e3e3;
+  background-color: rgb(81, 174, 255);
+}
+.rectangle2{
+  position:absolute;
+  width:347.5px;
+  height:60px;
+  left:565px;
+  top:460px;
+  border:1px solid #dad7d7;
+  background-color:#ffffff;
+}
+.label3{
+  position:relative;
+  top: 480px;
+  left: 645px;
+  font-size:13.5px;
+}
+.login{
+  color:#749ffa;
+  text-decoration: none; 
+  font-weight:700;
+}
+.laststatement{
+  position:relative;
+  top:280px;
+  font-size:14px;
+}
+.google{
+  position:absolute;
+  top:570px;
+  width:134px;
+  height:40px;
+  left:615px;
+}
+.microsoft{
+  position:absolute;
+  top:570px;
+  width:110px;
+  height:40px;
+  left:757.5px;
+}
+.meta{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:325px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.about{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:365px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.blog{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:410px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.jobs{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:445px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.help{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:480px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.api{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:515px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.privacy{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:545px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.terms{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:595px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.topAccounts{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:635px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.locations{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:720px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.instagramLite{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:780px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.contactUploading{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:870px;
+  font-size: 12px;
+  text-decoration: none;
+}
+.metaVerified{
+  position:absolute;
+  top:725px;
+  color:#908e8e;
+  left:1060px;
+  font-size: 12px;
+  text-decoration: none;
+}
