@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app">
       <div>
-        <form className="instagram">
+        <form className="instagram" method="post">
           
           <h1 className="heading">Instagram</h1>
           <label className="label"> Sign up to see photos and videos from your friends</label>
